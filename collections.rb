@@ -43,7 +43,7 @@ STUDENTS = [
   },
   {
     first_name: "kofi",
-    last_name: "thomas",
+    last_name: "Thomas",
     email: "k.thomas@gmail.com",
     class: "Ruby Immersive",
   }
