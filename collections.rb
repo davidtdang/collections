@@ -42,7 +42,7 @@ STUDENTS = [
     class: "Time trave for beginners",
   },
   {
-    first_name: "kofi",
+    first_name: "Kofi",
     last_name: "Thomas",
     email: "k.thomas@gmail.com",
     class: "Ruby Immersive",
